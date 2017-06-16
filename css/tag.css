@@ -1,10 +1,11 @@
 nav{
   text-align:center;
+  background-color: #BD2031;
 }
 
 nav ul{
   list-style-type:none;
-  
+  display:inline-block;
 }
 
 nav ul li{
@@ -12,9 +13,11 @@ nav ul li{
 }
 
 nav ul li a{
+  background-color: #BD2031;
   text-decoration:none;
-  padding: 5px;
+  padding: 10px;
   display: block;
+  color: #fff;
 }
 
 h1{
