@@ -20,6 +20,10 @@ nav ul li a{
   color: #fff;
 }
 
+nav ul li a:hover{
+  background-color: #000;
+}
+
 h1{
   clear: both;
 }
