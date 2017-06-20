@@ -7,3 +7,11 @@
   width: 75%;
   margin: 0% 12.5%;
 }
+
+.paragraph_image{
+  float: left;
+}
+
+.paragraph_1{
+  margin: 10px 5px 10px 5px; 
+}
