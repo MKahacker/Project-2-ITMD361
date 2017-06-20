@@ -12,10 +12,11 @@
   float: left;
 }
 
-.paragraph_1{
-  margin: 10px 5px 10px 5px; 
+.paragraph_1{ 
   position: relative;
+  margin: 15px 0;
   left: 8px;
   overflow: hidden;
   font-family: 'Pangolin', cursive;
+  font-size: 21px;
 }
