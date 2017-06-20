@@ -38,3 +38,9 @@ h1{
   font-family: 'Russo One', sans-serif;
   text-align: center;
 }
+
+footer{
+  position: relative;
+  top: 5px;
+  clear: both;
+}
