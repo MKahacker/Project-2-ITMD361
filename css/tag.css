@@ -32,6 +32,7 @@ nav ul li a:hover{
 h1{
   margin: 15px 0;
   font-size: 40px;
-  font-weight: 700; /*Bold = 700*/
+  font-weight: 500; /*Bold = 700*/
   clear: both;
+  font-family: 'Russo One', sans-serif;
 }
