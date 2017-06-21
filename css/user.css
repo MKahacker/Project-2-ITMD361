@@ -29,6 +29,12 @@
   font-size: 21px;
 }
 
+.paragraph_2{
+  text-align: left;
+  font-size: 21px;
+  font-family: 'Courgette', cursive;
+}
+
 .other_nav ul{
   list-style-type: none;
   float: right;

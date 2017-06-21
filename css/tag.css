@@ -44,6 +44,12 @@ h1{
   text-align: center;
 }
 
+h2{
+ margin: 20px 0 5px 0;
+ font-weight: 600; 
+ font-size: 35px;
+}
+
 footer{
   position: relative;
   top: 5px;
