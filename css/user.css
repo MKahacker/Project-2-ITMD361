@@ -8,9 +8,19 @@
   margin: 0% 12.5%;
 }
 
-.paragraph_image{
+.image_wrapper{
+  border: 4px solid #BD2031;
   float: left;
   margin: 0 10px 0 0;
+  background-color: #fff;
+  padding: 2px;
+  border-radius: 20px;
+}
+
+.paragraph_image{
+  float: left;
+  overflow: hidden;
+  border-radius: 16px;
 }
 
 .paragraph_1{ 
