@@ -20,3 +20,25 @@
   font-family: 'Pangolin', cursive;
   font-size: 21px;
 }
+
+.other_nav ul{
+  list-style-type: none;
+}
+
+.other_nav ul li{
+  float: left;
+}
+
+.other_nav ul li a{
+  text-decoration: none;
+  display: block;
+  color: #000;
+  margin: 0 5px 0 0;
+}
+
+.other_nav ul li a:hover{
+  text-decoration: underline;
+}
+
+
+
