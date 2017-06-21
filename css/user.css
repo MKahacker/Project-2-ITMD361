@@ -23,6 +23,7 @@
 
 .other_nav ul{
   list-style-type: none;
+  float: right;
 }
 
 .other_nav ul li{
@@ -31,13 +32,22 @@
 
 .other_nav ul li a{
   text-decoration: none;
-  display: block;
   color: #000;
-  margin: 0 5px 0 0;
+  margin: 0 5px;
+  font-size: 17px;
 }
 
 .other_nav ul li a:hover{
   text-decoration: underline;
+}
+
+.other_nav ul li::before{
+  content:"|"; 
+}
+
+.other_nav ul li:first-child::before{
+  content:"";
+  margin: 0;  
 }
 
 
