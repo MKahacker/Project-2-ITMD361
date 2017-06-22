@@ -38,6 +38,11 @@
 .author_poetry{
   font-weight: 700; 
 }
+
+h3.headings_resume{
+  margin: 30px;
+}
+
 .other_nav ul{
   list-style-type: none;
   float: right;
