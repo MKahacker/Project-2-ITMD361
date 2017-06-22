@@ -17,6 +17,10 @@
   border-radius: 20px;
 }
 
+.resume_content{
+  margin-left: 10px; 
+}
+
 .paragraph_image{
   float: left;
   overflow: hidden;
