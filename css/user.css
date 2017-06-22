@@ -42,6 +42,7 @@
 
 .other_nav ul li{
   float: left;
+  margin: 0;
 }
 
 .other_nav ul li a{
