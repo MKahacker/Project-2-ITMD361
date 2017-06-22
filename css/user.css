@@ -35,6 +35,9 @@
   font-family: 'Courgette', cursive;
 }
 
+.author_poetry{
+  font-weight: 600; 
+}
 .other_nav ul{
   list-style-type: none;
   float: right;
