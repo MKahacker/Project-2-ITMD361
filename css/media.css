@@ -2,4 +2,8 @@
   .image_wrapper{
     clear: both; 
   }
+  
+  .paragraph_image{
+     clear:both; 
+  }
 }
