@@ -17,8 +17,10 @@
   border-radius: 20px;
 }
 
+/*-------------------------------------Paragraph and Heading styles-------------------------------*/
+
 .resume_content{
-  margin-left: 10px; 
+  margin: 0 0 0 20px; 
 }
 
 .paragraph_image{
@@ -51,13 +53,18 @@ h3.headings_resume{
   margin: 30px 0 0 0;
 }
 
+.minions{
+  margin: 0 0 0 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+/*-----------------------------------Secondary Nav Bar------------------------------------------*/
+
 .other_nav ul{
   list-style-type: none;
   float: right;
-}
-
-.minions{
-  margin: 0 0 0 20px;
 }
 
 .other_nav ul li{
