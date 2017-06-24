@@ -40,6 +40,10 @@
   float: right;
 }
 
+.minions{
+  margin: 0 0 0 20px;
+}
+
 .other_nav ul li{
   float: left;
 }
