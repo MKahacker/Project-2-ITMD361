@@ -17,6 +17,10 @@
   border-radius: 20px;
 }
 
+.resume_content{
+  margin-left: 10px; 
+}
+
 .paragraph_image{
   float: left;
   overflow: hidden;
@@ -35,6 +39,14 @@
   font-family: 'Courgette', cursive;
 }
 
+.author_poetry{
+  font-weight: 700; 
+}
+
+h3.headings_resume{
+  margin: 30px 0 0 0;
+}
+
 .other_nav ul{
   list-style-type: none;
   float: right;
@@ -46,6 +58,7 @@
 
 .other_nav ul li{
   float: left;
+  margin: 0;
 }
 
 .other_nav ul li a{
