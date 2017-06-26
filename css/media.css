@@ -6,6 +6,7 @@
   
   .image_wrapper{
     position: relative;
+    left: 200px;
     margin-bottom: 15px;  
   }
 }
