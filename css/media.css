@@ -1,6 +1,6 @@
 @media only screen and (max-device-width: 580px){
   p{
-    font-size: 28px;
+    font-size: 27px;
     text-align: center;
   }
   
@@ -18,6 +18,17 @@
     left: 200px;
     margin-bottom: 15px;  
   }
+  
+  .paragraph_2{
+    text-align:center;
+  }
+}
+
+@media only screen and (max-device-width: 375px){
+  p{
+    font-size: 15px;
+    text-align: center;
+  } 
 }
 
 /*@media only screen and (max-device-width: 480px){
