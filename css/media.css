@@ -10,3 +10,18 @@
     margin-bottom: 15px;  
   }
 }
+
+@media only screen and (max-width: 580px){
+  
+  .paragraph_1{
+    clear: both;
+  }
+  
+  .image_wrapper{
+    float: none;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 15px;  
+  }
+}
+
