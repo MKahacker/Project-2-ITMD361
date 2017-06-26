@@ -32,12 +32,10 @@
 .paragraph_1{ 
   margin: 15px 0;
   font-family: 'Pangolin', cursive;
-  font-size: 21px;
 }
 
 .paragraph_2{
   text-align: left;
-  font-size: 21px;
   font-family: 'Courgette', cursive;
 }
 
@@ -54,9 +52,9 @@ h3.headings_resume{
 }
 
 .minions{
+  text-align: left;
   margin: 0 0 0 20px;
   font-size: 18px;
-  font-weight: 500;
 }
 
 .company_pos{
@@ -66,6 +64,24 @@ h3.headings_resume{
 .company_name{
   font-weight: 900;
   margin: 0 0 25px 0;  
+}
+
+.show_title{
+  margin: 20px 0;
+  font-family: 'Pangolin', cursive;
+  font-weight: 700; 
+  font-size: 25px;  
+}
+
+.minions_iframe{
+  text-align: left;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Rhodium Libre', serif;
+}
+
+.content_tv{
+  margin-top: 20px; 
 }
 
 /*-----------------------------------Secondary Nav Bar------------------------------------------*/

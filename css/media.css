@@ -1,4 +1,13 @@
 @media only screen and (max-device-width: 580px){
+  p{
+    font-size: 28px;
+    text-align: center;
+  }
+  
+  iframe{
+    width:450px;
+    height:254px; 
+  }
   
   .paragraph_1{
     clear: both;
@@ -21,7 +30,22 @@
   }
 }*/
 
+@media only screen and (max-width: 1020px){
+  iframe{
+    width:550px;
+    height:390px; 
+  }
+  .minions_iframe{
+    font-size: 15px;
+  }
+}
+
 @media only screen and (max-width: 580px){
+   iframe{
+    width:325px;
+    height:183px; 
+  }
+  
   .paragraph_1{
     clear: both;
   }
@@ -37,6 +61,10 @@
   
   #index_image_1{
     content: url(../images/tiger-pic-small.jpg);    
+  }
+  
+  .minions_iframe{
+    font-size: 10px;
   }
 }
 

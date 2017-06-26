@@ -1,6 +1,8 @@
 body{
   background-color: #FFFFCC;  
 }
+
+/*-------------------------------------------- Nav Bar -----------------------------------------------------------*/
 nav{
   text-align:center;
   background-color: #000;
@@ -38,6 +40,11 @@ nav ul li a.active{
   color: #f0b401;
 }
 
+
+/*------------------------------------------ Tags Used for content ---------------------------------------------*/
+p{
+  font-size: 21px; 
+}
 h1{
   margin: 15px 0;
   font-size: 40px;
@@ -63,8 +70,8 @@ li{
 }
 
 iframe{
-  width:854;
-  height:480;; 
+  width:854px;
+  height:480px; 
 }
 
 footer{
