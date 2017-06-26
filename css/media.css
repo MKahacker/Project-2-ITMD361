@@ -1,8 +1,6 @@
-@media only screen and (max-width: 360px){
-  .image_wrapper{
-
-  }
+@media only screen and (max-width: 580px){
   
   .paragraph_image{
+    clear: both;
   }
 }
