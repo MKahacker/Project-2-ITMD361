@@ -76,12 +76,12 @@ h3.headings_resume{
 .minions_iframe{
   text-align: left;
   font-size: 18px;
-  font-weight: 700;
   font-family: 'Rhodium Libre', serif;
 }
 
 .content_tv{
   margin-top: 20px; 
+  font-family: 'Rhodium Libre', serif;
 }
 
 /*-----------------------------------Secondary Nav Bar------------------------------------------*/
