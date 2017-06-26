@@ -100,5 +100,13 @@ h3.headings_resume{
   margin: 0;  
 }
 
+/*--------------------------------IDs----------------------------------------------------------------*/
+
+#hamburger_nav{
+  position: relative;
+  left: 40px;
+  bottom: 10px;
+  display:none;  
+}
 
 
