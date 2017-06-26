@@ -21,7 +21,39 @@
     float: none;
     display: inline-block;
     position: relative;
+    left: 25%;
     margin-bottom: 15px;  
+    padding: 0;
+  }
+  
+  #index_image_1{
+    content: url(../images/tiger-pic-small.jpg);    
+  }
+  
+ 
+}
+
+@media only screen and (max-width: 480px){
+  nav ul li{
+    width: 100%;
+  } 
+  
+  h1{
+    margin-top: 150px; 
   }
 }
+
+@media only screen and (max-width: 340px){
+  
+  h1{
+    font-size: 20px;    
+  }
+ 
+  .image_wrapper{
+    margin-bottom: 5px;  
+  }
+  
+  #index_image_1{
+    content: url(../images/tiger-pic-smallest.jpg);    
+  }
 
