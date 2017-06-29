@@ -83,13 +83,14 @@ h3.headings_resume{
   margin: 20px 0;
   font-family: 'Pangolin', cursive;
   font-weight: 700; 
-  font-size: 25px;  
+  font-size: 30px;  
 }
 
 .minions_iframe{
   text-align: left;
-  font-size: 18px;
+  font-size: 17px;
   font-family: 'Rhodium Libre', serif;
+  margin-top: 15px;
 }
 
 .content_tv{
