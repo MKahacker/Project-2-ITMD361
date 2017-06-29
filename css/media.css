@@ -4,23 +4,31 @@
     text-align: center;
   }
   
-  iframe{
-    width:450px;
-    height:254px; 
+  .body_wrapper{
+    width: 90%;
+    margin: 0% 5%;
   }
   
   .paragraph_1{
     clear: both;
   }
   
-  .image_wrapper{
-    position: relative;
-    left: 200px;
-    margin-bottom: 15px;  
-  }
   
   .paragraph_2{
     text-align:center;
+  }
+  
+  .image_wrapper{
+    position: relative;
+    margin-bottom: 15px;  
+    border:0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  #index_image_1{
+    border-radius: 0;
+    width: 100%;    
   }
 }
 
@@ -31,31 +39,14 @@
   } 
 }
 
-/*@media only screen and (max-device-width: 480px){
-  nav ul li{
-    width: 100%;
-  } 
-  
-  h1{
-    margin-top: 150px; 
-  }
-}*/
-
-@media only screen and (max-width: 1020px){
-  iframe{
-    width:550px;
-    height:390px; 
-  }
-  .minions_iframe{
-    font-size: 15px;
+@media only screen and (max-width: 480px){
+  .body_wrapper{
+    width: 90%;
+    margin: 0% 5%;
   }
 }
 
 @media only screen and (max-width: 580px){
-   iframe{
-    width:325px;
-    height:183px; 
-  }
   
   .paragraph_1{
     clear: both;

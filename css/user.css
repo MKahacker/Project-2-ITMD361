@@ -17,6 +17,13 @@
   border-radius: 20px;
 }
 
+.video_wrapper{
+  position: relative;
+  padding-bottom: 56.25%; /*For an 16:9 aspect ration*/
+  padding-top: 20px;
+  height: 0;
+}
+
 /*-------------------------------------Paragraph and Heading styles-------------------------------*/
 
 .resume_content{
